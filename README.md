@@ -5,7 +5,7 @@
 
 | Esp. | Eng.     | 
 | :-------- | :------- |
-| Soy diseñador gráfico e ilustrador al que le apasionan la cartelería vintage, los colores vivos, las plantas y los tigres, así como hacer chuminás con código :-) ¡Gracias por pasarte! | Hi! I'm a graphic designer and illustrator who loves vintage ads and posters, bright colours, plants and tigers, and also coding silly stuff. Thanks for passing by!|
+| Soy un diseñador gráfico e ilustrador al que le apasionan la cartelería vintage, los colores vivos, las plantas y los tigres, así como hacer chuminás con código :-) ¡Gracias por pasarte! | Hi! I'm a graphic designer and illustrator who loves vintage ads and posters, bright colours, plants and tigers, and also coding silly stuff. Thanks for passing by!|
 
 
 ## 🍃 Herramientas y lenguajes // Tools & languages
